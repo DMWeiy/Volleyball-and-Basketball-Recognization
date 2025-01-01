@@ -1,0 +1,10 @@
+train: E:\MV_Project\Group6_Object_Recog_Tracking\data\train\images
+val: E:\MV_Project\Group6_Object_Recog_Tracking\data\valid\images
+test: E:\MV_Project\Group6_Object_Recog_Tracking\data\test\images
+
+nc: 2
+names: ['basketball', 'volleyball']
+
+
+
+
